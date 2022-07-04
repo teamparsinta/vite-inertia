@@ -8,7 +8,7 @@ cp .env.example .env
 npm install
 php artisan serve
 ```
-### Run this app!
+Open new tab on terminal and run the vite with
 ```bash
 npm run dev
 ```
