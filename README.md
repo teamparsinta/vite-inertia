@@ -5,6 +5,7 @@ git clone https://github.com/teamparsinta/vite-inertia.git
 cd vite-inertia
 composer install
 cp .env.example .env
+php artisan key:generate
 npm install
 php artisan serve
 ```
